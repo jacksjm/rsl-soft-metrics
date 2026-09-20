@@ -31,7 +31,6 @@ PIERCE, Robert; ST. AMANT, Kirk. Working from Home in a Globally Distributed Env
 PRIKLADNICKI, Rafael; CARMEL, Erran. Is time-zone proximity an advantage for software development? The case of the Brazilian IT industry. In: **2013 35th International Conference on Software Engineering (ICSE)**. 2013. p. 973–981. DOI: https://doi.org/10.1109/ICSE.2013.6606647.
 SMITE, Darja; MOE, Nils Brede; HILDRUM, Jarle; GONZALEZ-HUERTA, Javier; MENDEZ, Daniel. Work-from-home is here to stay: Call for flexibility in post-pandemic work policies. **2023**.
 STOREY, Margaret-Anne; RUSSO, Daniel; NOVIELLI, Nicole; KOBAYASHI, Takashi; WANG, Dong. A Disruptive Research Playbook for Studying Disruptive Innovations. **2024**.
-TAN, Xin; ZHOU, Minghui. How to Communicate when Submitting Patches: an Empirical Study of the Linux Kernel. **2019**.
 ULZIIT, Bayarbuyan; WARRAICH, Zeeshan Akhtar; GENCEL, Cigdem; PETERSEN, Kai. A conceptual framework of challenges and solutions for managing global software maintenance. **2015**.
 YAMAGISHI, Rei; FUJII, Shota; YASUDA, Shingo; SATO, Takayuki; HASEGAWA, Ayako A. Collaborative Work in Malware Analysis: Understanding the Roles and Challenges of Malware Analysts. In: **Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems**. New York: Association for Computing Machinery, 2025. art. 865. DOI: https://doi.org/10.1145/3706598.3713652.
 ZHOU, Xin Tan; ZHOU, Minghui. How to Communicate when Submitting Patches: an Empirical Study of the Linux Kernel. **2019**.
